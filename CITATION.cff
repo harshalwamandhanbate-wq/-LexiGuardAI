@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use LexiGuard-AI in your research or project, please cite it as below."
+title: "LexiGuard-AI: Private On-Device Legal Document Triage Agent"
+version: 1.0.0
+date-released: 2026-10-18
+authors:
+  - name: "LexiGuard Open Source Contributors"
+repository-code: "https://github.com/zeroday-oss/lexiguard-ai"
+abstract: "A privacy-first, fully on-device AI triage agent powered by Gemma 3n/2b edge models for legal document understanding, risk highlighting, and calibrated escalation without definitive legal advice."
+keywords:
+  - legal-tech
+  - on-device-ai
+  - gemma
+  - edge-ai
+  - privacy-preserving
+  - prompt-injection-defense
+license: "MIT"
